@@ -3,3 +3,6 @@ target/
 *.tlog
 logs/
 *.log
+*.classpath
+*.project
+*.settings
